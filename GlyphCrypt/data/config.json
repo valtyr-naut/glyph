@@ -1,0 +1,17 @@
+{
+    "paths":{
+        "input":"input",
+        "rune":"output",
+        "glyph":"output"
+    },
+    "encryption":{
+        "layers":5
+    },
+    "decryption":{
+        "scrub/delete":true
+
+    },
+    "extras":{
+        "runic":true
+    }
+}
